@@ -1,1 +1,1 @@
-# fastFood
+# fast-food-diet
